@@ -19,7 +19,7 @@ The second section adopts a spiral discovery pattern, restricting player movemen
 
 The final part is a central area with two pathways that must be completed in any order to drop a pushable box onto a pressure plate, unlocking the door to the next stage. While less focused on drama, this discovery-driven segment still challenges the player's quick reflexes and threat response.
 
-![!](DocImages/2_1.png)
+![!](DocImages/2_1.PNG)
 ![2_2!](DocImages/2_2.png)
 ![2_3!](DocImages/2_3.png)
 
