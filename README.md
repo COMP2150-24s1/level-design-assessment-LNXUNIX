@@ -11,23 +11,23 @@ The player begins with two pathways, one to the right and one to the left. The l
 The alternate pathway involves climbing a cliff and leaping to a floating island where the player encounters a new enemy type: the spitter. This section eases the player into understanding this enemy's behavior. The only true test lies at the end, where a moving platform and a spitter guard the goal.
 
 
-![Acid pit!](DocImages/acid_stage1.png)
-![2 pathways!](DocImages/stage1_alterateFight.png)
-![spitters!](DocImages/stage1_rangedFight.png)
+![Acid pit!](DocImages/acid_stage1.PNG)
+![2 pathways!](DocImages/stage1_alterateFight.PNG)
+![spitters!](DocImages/stage1_rangedFight.PNG)
 
 The second section adopts a spiral discovery pattern, restricting player movement in a guided fashion. The emphasis here is on drama and the challenge of dodging and maneuvering while attacking.  The player's expectations are set with a timed jump challenge over an acid pit. Afterward, they descend to a checkpoint followed by a large spike pit traversed via a moving platform. Floating spike islands and spitters strategically placed along the platform's path significantly ramp up the difficulty, forcing the player to target enemies while dodging obstacles.
 
 The final part is a central area with two pathways that must be completed in any order to drop a pushable box onto a pressure plate, unlocking the door to the next stage. While less focused on drama, this discovery-driven segment still challenges the player's quick reflexes and threat response.
 
-![2_1!](DocImages/2_1.png)
-![2_2!](DocImages/2_2.png)
-![2_3!](DocImages/2_3.png)
+![2_1!](DocImages/2_1.PNG)
+![2_2!](DocImages/2_2.PNG)
+![2_3!](DocImages/2_3.PNG)
 
 The final section begins with deceptive simplicity: an empty room with a platform and a closed door to the left. This creates low initial tension. Moving right reveals an obstacle, followed by a cutscene unveiling a boss behind the door.  The tension peaks as the boss health bar appears, signaling the player must defeat this formidable foe to advance. The boss battle has three stages of increasing difficulty.  Stage one introduces moving spike platforms, ensuring the player can't solely rely on the safety of the floating platforms. Stage two adds chompers that spawn regularly, forcing the player to split their focus.  The final stage grants more health regeneration for the player but pits them against floating platforms with spitters.
 
-![3_1!](DocImages/3_1.png)
-![3_2!](DocImages/3_2.png)
-![3_3!](DocImages/3_3.png)
+![3_1!](DocImages/3_1.PNG)
+![3_2!](DocImages/3_2.PNG)
+![3_3!](DocImages/3_3.PNG)
 
 
 ## 2. Core Gameplay (~400 words)
