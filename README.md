@@ -6,72 +6,75 @@
 
 ## 1. Player Experience (~700 words)
 
-in my first section there are greated with 2 pathways one to the right and one to the left, if the player tries to go the the left they will see that the pathway has been blocked, however if they go to the right then encounter the cave area, the learning here is structure in a way that it first focuses on movement making sure the player is confortable this is done through the acid pit, next the player is greated by a pressure plat which upon steeping on causes the door ahead of them to open, this explains the concept behind what is an interactive element and what is not this is also followed through as once the player enter the new room open to them, the acquire a gun and pistol and are able to choose 2 pathways one is under the swarm of enemy, where there is a destructable pillar and above there are a few spikes and 5 chompers, the split was introduced as a way for the player to disover both pathways, and at the end of the cave is a switch that once shoot open the bridge that has been blocking the other pathway.
+The player begins with two pathways, one to the right and one to the left. The left path is blocked, subtly guiding the player towards the cave area on the right.  The initial focus is comfortable movement, reinforced by an acid pit challenge. Next, a pressure plate demonstrates interactable elements; stepping on the plate opens a door ahead. Once inside, the player acquires a gun and pistol and encounters a split pathway. Below, a destructible pillar stands amidst a swarm of enemies. Above, spikes and chompers provide obstacles. This split encourages exploration of both routes. At the cave's end, shooting a switch opens the bridge that previously blocked the other pathway.
 
-the other pathway requires the player to climb up a cliff and then jump across onto the floating island where they then discover the other type of enemy the spitter, the part isn't diffcult as to introduce the player to what the new encounter does, the only test one this path is at the end where there is a moving platform and a spitter at the goal.
+The alternate pathway involves climbing a cliff and leaping to a floating island where the player encounters a new enemy type: the spitter. This section eases the player into understanding this enemy's behavior. The only true test lies at the end, where a moving platform and a spitter guard the goal.
 
 
-![Acid pit](DocImages/acid_stage1.png)
-![2 pathways](DocImages/stage1_alterateFight.png)
-![spitters](DocImages/stage1_rangedFight.png)
+![Acid pit!](DocImages/acid_stage1.png)
+![2 pathways!](DocImages/stage1_alterateFight.png)
+![spitters!](DocImages/stage1_rangedFight.png)
 
-in the second section is follows a spiral discovery pattern, whereby the player is restricted to move in that pattern, the focus of this level is more geared towards the drama and challenge of having to dodge and move around while attacking, the level achieves this why first setting the players expecations in the first ecounter where they have to time there jumps to navigate over the acid pit, then by they can drop down to the next part where they are greated by a checkpoint and a moving platform over a large spike pit and several obstacle such as a floating spike island and spitters placed along the plath of the moving platform. the challenge in this part is greatly increased as the player has to now focus on how to target the spitters while avoding all the obstacles that may harm him, the final part is the center area, this contains two pathways the user has to take to complete the level, they can be complete in any order but must be both completed to allow the pushable box to fall down and hit the pressure plate opening up the door to allow the player to progress to the next stage. this part has a decrease in drama as it more focused on discovery hover it is still challanging as the level still requires the player to be quick with how they responed to threats.
+The second section adopts a spiral discovery pattern, restricting player movement in a guided fashion. The emphasis here is on drama and the challenge of dodging and maneuvering while attacking.  The player's expectations are set with a timed jump challenge over an acid pit. Afterward, they descend to a checkpoint followed by a large spike pit traversed via a moving platform. Floating spike islands and spitters strategically placed along the platform's path significantly ramp up the difficulty, forcing the player to target enemies while dodging obstacles.
 
-![2_1](DocImages/2_1.png)
-![2_2](DocImages/2_2.png)
-![2_3](DocImages/2_3.png)
+The final part is a central area with two pathways that must be completed in any order to drop a pushable box onto a pressure plate, unlocking the door to the next stage. While less focused on drama, this discovery-driven segment still challenges the player's quick reflexes and threat response.
 
-the final sections is rather simple when the player enters it nothing to the left and and platform and an empty door, this is the level lowest tension as the player moves to the right they are stopped this is when they are greated by a cutscene and it then reveals that the door was containing a boss [* part of the 2d game kit *], the point of highest tension would be when the boss bar appears and the player is confronted with the fact they must kill the boss to pass, the boss has 3 stages where it the challenge increase on each one, the fist stage is an introduction of a moving spike platform that insure the player cannot hog the floating platform given for there aid, the next stage adds ads (chompers) to start spawning in requiring the player to now focus on both the chompers and the boss, on the final stage the player is given more health regens but is now greated with spitters on floating platforms.
+![2_1!](DocImages/2_1.png)
+![2_2!](DocImages/2_2.png)
+![2_3!](DocImages/2_3.png)
 
-![3_1](DocImages/3_1.png)
-![3_2](DocImages/3_2.png)
-![3_3](DocImages/3_3.png)
+The final section begins with deceptive simplicity: an empty room with a platform and a closed door to the left. This creates low initial tension. Moving right reveals an obstacle, followed by a cutscene unveiling a boss behind the door.  The tension peaks as the boss health bar appears, signaling the player must defeat this formidable foe to advance. The boss battle has three stages of increasing difficulty.  Stage one introduces moving spike platforms, ensuring the player can't solely rely on the safety of the floating platforms. Stage two adds chompers that spawn regularly, forcing the player to split their focus.  The final stage grants more health regeneration for the player but pits them against floating platforms with spitters.
+
+![3_1!](DocImages/3_1.png)
+![3_2!](DocImages/3_2.png)
+![3_3!](DocImages/3_3.png)
 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
-
-(DocImages/stage1.png)
 
 ### 2.2. Checkpoints
+I chose to include checkpoints because they act as vital moments of respite and accomplishment. A well-placed checkpoint breathes life back into the player after a hard-fought battle, letting them know they're on the right track and can push on without fear of complete setbacks.
 
 ### 2.1. Acid
-
-### 2.3. Chompers
-
-### 2.4. Health Pickups
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
-
-### 2.7. Passthrough Platforms
-
-### 2.6. Moving Platforms
-
-### 2.5. Keys
-
-### 2.9. Spitters
+acid makes a a secondary obstacle because it forces precise, considered movement. It's a constant reminder that every platforming decision matters, turning what might be standard traversal into a test of skill and timing.
 
 ### 2.8. Spikes
+I chose to incorporate spikes because they add an element of ever-present danger. Unlike acid, they are often dynamic, moving in patterns and demanding constant player awareness. This adds another layer of complexity and keeps players on their toes even when navigating familiar patterns.
+
+### 2.4. Health Pickups
+I chose health pickups because they represent moments of relief and the possibility of overcoming even the most difficult encounters. Strategically placing them after tough sequences gives the player a boost of confidence and the motivation to push forward.
+
+### 2.10. Weapon Pickup (Gun) / (Staff)
+I chose health pickups because they represent moments of relief and the possibility of overcoming even the most difficult encounters. Strategically placing them after tough sequences gives the player a boost of confidence and the motivation to push forward.
+
+### 2.3. Chompers
+I chose to introduce chompers early because they're a simple obstacle that teaches the player important concepts. Their predictable behavior lets players focus on timing and movement fundamentals and prepares them for more complex encounters later on.
+
+### 2.7. Passthrough Platforms
+I chose passthrough platforms because they add a unique verticality element to level design. They encourage players to think beyond just left-and-right movement and consider creative ways to solve spatial puzzles.
+
+### 2.9. Spitters
+I chose to use spitters because they force awareness and strategic movement.  Their ranged attacks restrict the player's  freedom, acting as guides to propel them along a specific path while adding another layer of danger to the environment.
+
+### 2.6. Moving Platforms
+I chose moving platforms because they add dynamism and break up the pace of a level.  They present scenarios where players have to navigate confined spaces or make well-timed leaps, building upon their previously acquired skills in a new way.
+
+### 2.5. Keys
+keys play a limited role and are useally put at the end of the stages.
 
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
+![storyboard!](DocImages/stage1.png)
 
 ### 3.3.	Level Map – Section 2
+![storyboard!](DocImages/stage2.png)
 
 ### 3.4.	Level Map – Section 3
+![storyboard!](DocImages/stage3.png)
 
 ## 4. Iterative Design (~400 words)
 
